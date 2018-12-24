@@ -163,4 +163,49 @@
     
 }
 
+/* pricing */
 
+.pricing{
+    background-color: rgba(129,162,178,.1);
+    text-align: center;
+    padding: 40px 20px;
+}
+
+.pricing .price-text{
+     font-size: 25px;
+    color: #485358;
+}
+
+.pricing p{
+    padding: 20px;
+    font-size: 18px;
+    color: #5e6c72;
+}
+
+.pricing span{
+    font-size: 16px;
+    color: #596a72;
+    padding: 20px 0;
+}
+
+.pricing h5{
+    font-size: 22px;
+    margin: 6% 0;
+    color: #5d686d;
+}
+
+.pricing .learn-btn {
+    width: 130px;
+    height: 40px;
+    border: none;
+    color:#ff8859;
+    background-color:rgba(216, 226, 231, 0);
+    font-size: 20px;
+}
+.pricing .learn-btn .arr1{
+     color: #ff8859;
+     width: 40px;
+    height: 30px;
+    padding-left: 2px;
+    padding-bottom: 2px;
+}
