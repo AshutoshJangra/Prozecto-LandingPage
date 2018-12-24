@@ -154,8 +154,8 @@
 /* features */
 
 .features p{
-    color:#717677 ;
-    padding: 20px;
+    color:#87999c ;
+    padding: 20px 0 10px 0;
 }
 
 .feature{
@@ -209,3 +209,58 @@
     padding-left: 4px;
     padding-bottom: 2px;
 }
+
+/* testinomials */
+.testinomial{
+    padding: 20px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.testinomial .person{
+    padding: 20px;
+    color: #3f5e6d;
+}
+
+footer{
+    padding: 50px 0;
+    align-content: center;
+    text-align: center;
+    background-color: #2f3949;
+    color: #acb4b8;
+}
+.product{
+        margin-bottom: 30px;
+}
+.product h3{
+    color: rgb(226, 231, 235);
+    padding: 10px 20px;
+   font-size: 1.1rem;
+}
+
+.product li{
+  font-size: 13px;
+}
+
+.contact{
+    margin-bottom: 30px;
+}
+.contact h3{
+color: rgb(226, 231, 235);
+padding: 10px 20px;
+font-size: 1.1rem;
+}
+
+.contact li{
+font-size: 13px;
+}
+
+.tagname{
+    font-size: 20px;
+    padding: 20px 0 0 0 ;
+    justify-content: end;
+    color: rgb(226, 231, 235);
+}
+
+
+
