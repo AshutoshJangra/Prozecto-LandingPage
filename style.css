@@ -222,6 +222,36 @@
     color: #3f5e6d;
 }
 
+/* interested */
+.interested{
+    background-color: rgba(129,162,178,.1);
+    padding: 30px 0 20px 0;
+    align-items: center;
+    text-align: center;
+}
+.interested .text-int{
+    font-size: 17px;
+    color: #494d53;
+    padding: 20px;
+}
+
+.interested .btn3{
+    background-color: #ff8859;
+    width: 160px;
+    height: 45px;
+    border: none;
+    color: white;
+    font-size: 1rem;
+    margin-bottom:40px;
+    margin-right:15px;
+    padding: 5px;
+    letter-spacing: .1rem;
+}
+
+.interested p{
+    font-size: 17px;
+    color: #676768;
+}
 footer{
     padding: 50px 0;
     align-content: center;
